@@ -26,8 +26,7 @@ Supervised learning is a machine learning domain that maps an input to an output
 
 The architecture of Supervised Learning is as given below:
 
-https://drive.google.com/file/d/17MxoarHGhAZJZSbzcREtBaiHIJm9ZfD5/view?usp=sharing
-
+![Screen Shot 2021-02-11 at 4.25.59 PM.png]
 Both the models use labelled data to train the machine to make accurate predictions/classifications when new instances of data are passed to the model.
 
 
