@@ -29,6 +29,7 @@ Both, The News Classification as well as The Fake News Detection model use Super
 
 Supervised learning is a machine learning domain that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
 
+
 The architecture of Supervised Learning is as given below:
 
 ![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/images/supervised.jpg)
@@ -51,6 +52,21 @@ The following tools and technologies were used to create an end-to end pipeline 
 •	Amazon Comprehend: Amazon Comprehend is a Machine Learning tool that can perform various custom classification tasks like detecting dominant language, key entity recognition etc. It also provides real-time and batch-analysis options to analyze the input data and generate results with confidence intervals. The image below shows a high-level overview of Amazon Comprehend’s custom classification architecture.
 
 ![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/images/comprehend_arch.png)
+
+
+## Model Architecture
+
+The pipeline architecture for model is as shown below: 
+
+![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/images/model_arch.png)
+
+
+The Dataset for this model is derived from Kaggle, and can be found on the following link: https://www.kaggle.com/rmisra/news-category-dataset 
+
+This dataset was downloaded in JSON format, which was then converted into a pandas data-frame. 
+
+It has columns for category, headline, author, link, short description and date. 
+
 
 
 
