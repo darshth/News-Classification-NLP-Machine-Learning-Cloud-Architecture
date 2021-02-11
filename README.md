@@ -1,6 +1,6 @@
 # News-Classification-NLP-Machine-Learning-Cloud-Architecture
 
-##Introduction
+## Introduction
 
 
 ‘Data’ has taken world by storm. Humans generate massive amounts of data everyday- knowingly and unknowingly. This is what the Scientists term as ‘The Data Glut’. Pulling out some facts and figures:
