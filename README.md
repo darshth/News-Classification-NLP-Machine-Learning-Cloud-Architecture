@@ -17,6 +17,18 @@ What is happening due to this is that tremendous amount of important data and in
 
 The motivation behind developing and completing this project was to efficiently deliver a one stop solution to classify news and also to efficiently tackle fake news using the best tools and technologies in Natural Language Processing and Classification. 
 
+## Supervised Learning Approach
+
+
+Both, The News Classification as well as The Fake News Detection model use Supervised Learning Approach. 
+
+Supervised learning is a machine learning domain that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
+
+The architecture of Supervised Learning is as given below:
+
+ 
+
+Both the models use labelled data to train the machine to make accurate predictions/classifications when new instances of data are passed to the model.
 
 
 
