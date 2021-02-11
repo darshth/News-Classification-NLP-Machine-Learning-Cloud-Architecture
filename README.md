@@ -1,5 +1,11 @@
 # News-Classification-NLP-Machine-Learning-Cloud-Architecture
 
+
+# Auto-Cleaner Example
+
+![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/autocleaner_example.png)
+
+
 ## Introduction
 
 
