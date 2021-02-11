@@ -22,8 +22,8 @@ What is happening due to this is that tremendous amount of important data and in
 
 The motivation behind developing and completing this project was to efficiently deliver a one stop solution to classify news and also to efficiently tackle fake news using the best tools and technologies in Natural Language Processing and Classification. 
 
-## Supervised Learning Approach
 
+## Supervised Learning Approach
 
 Both, The News Classification as well as The Fake News Detection model use Supervised Learning Approach. 
 
@@ -35,6 +35,22 @@ The architecture of Supervised Learning is as given below:
 
 Both the models use labelled data to train the machine to make accurate predictions/classifications when new instances of data are passed to the model.
 
+
+## News Classification Model Tools
+	
+The following tools and technologies were used to create an end-to end pipeline and build a production level for the model for this use case:
+
+•	Terminal: Terminal is used to write Linux Shell Commands in a Macintosh Computer. Ruby and Homebrew commands are essential to operate a MongoDB database.
+
+•	MongoDB: MongoDB is a database, which has both cloud and local storage options. The objects in MongoDB are stored in a BSON (Binary JavaScript Object Notation) format.
+
+•	PyCharm: PyCharm is an Integrated Development Environment, which here is used with Python 3.8 scripting language to pull the data, pre-process it and feed it into a CSV file.
+
+•	AWS S3 Buckets: The AWS S3 bucket stores the CSV file, which is necessary to train using Amazon Comprehend. 
+
+•	Amazon Comprehend: Amazon Comprehend is a Machine Learning tool that can perform various custom classification tasks like detecting dominant language, key entity recognition etc. It also provides real-time and batch-analysis options to analyze the input data and generate results with confidence intervals. The image below shows a high-level overview of Amazon Comprehend’s custom classification architecture.
+
+![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/images/comprehend_arch.png)
 
 
 
