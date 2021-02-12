@@ -1,19 +1,21 @@
 # News-Classification-NLP-Machine-Learning-Cloud-Architecture
 
 
-## Auto-Cleaner Example
-
-![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/autocleaner_example.png)
-
 
 ## AWS Application Front-End
 
 ![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/images/classifier_example.png)
+![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/classifier_performance2.png)
 
 
 ## Model Performance
 
 ![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/images/classifier_performance.png)
+
+
+## Auto-Cleaner Example
+
+![alt text](https://github.com/darshth/News-Classification-NLP-Machine-Learning-Cloud-Architecture/blob/main/autocleaner_example.png)
 
 
 ## Introduction
